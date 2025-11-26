@@ -21,7 +21,7 @@ Nagłówek 4
       return 1;
     }
 
-Odnośnik lokalny :ref:'odnosnik'
+Odnośnik lokalny :ref:`odnosnik`
 Odnośnik zewnętrzny : https://www.python.org 
 
 #. Lista
