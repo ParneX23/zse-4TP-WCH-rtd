@@ -12,3 +12,4 @@ Contents
 
    index
    skladnia
+   kontakt
