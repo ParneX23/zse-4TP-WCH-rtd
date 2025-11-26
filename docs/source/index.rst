@@ -10,6 +10,5 @@ Contents
 
 .. toctree::
 
-   index
    skladnia
    kontakt
