@@ -1,3 +1,6 @@
+Składnia
+==========
+
 .. _odnosnik:
 Naglówek 1
 ==========
