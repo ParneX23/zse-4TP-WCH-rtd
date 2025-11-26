@@ -37,11 +37,9 @@ Termin
 Termin2
   i kolejna definicja
 
-.. figure:: zsegw.png
+.. image:: zsegw.png
    :alt: Logo elektryka
    :width: 300px
-
-   Tutaj jest podpis do obraza.
 
 +------------------+---------------+
 | Pierwsza Kolumna | Druga Kolumna |
